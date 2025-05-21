@@ -705,7 +705,6 @@ ul{
         min-height: 40em;
     }
     .product{
-        background: var(--dark-moss-green);
         padding: 100px 60px 100px;
     }
     .product .prodsection{
